@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:390549
+#EXT-X-MAP:URI="ch107-init.mp4"
+#EXTINF:1.000000,
+https://flv.intechmedia.net/ch107-390549.m4s
+#EXTINF:1.000000,
+https://flv.intechmedia.net/ch107-390550.m4s
+#EXTINF:1.000000,
+https://flv.intechmedia.net/ch107-390551.m4s
+#EXTINF:1.000000,
+https://flv.intechmedia.net/ch107-390552.m4s
+#EXTINF:1.000000,
+https://flv.intechmedia.net/ch107-390553.m4s
+#EXTINF:1.000000,
+https://flv.intechmedia.net/ch107-390554.m4s
